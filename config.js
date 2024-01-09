@@ -1,0 +1,5 @@
+const config = {
+    apiKey: 'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlZWMxM2RiNzM2ODBiNzZmMTAxYTFhZTNmODJlNDVlZCIsInN1YiI6IjY1OGUxOTNlZDhlMTVhMTQ4ZGFiZmNhMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.RzzPhVh_ULVddRGIrUpRQcOVWehz0JcjKzgVNRIhecY'
+};
+
+// apiKey 구성
